@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 150">
+  <text x="8" y="22" font-family="Impact, Arial Black, sans-serif" font-size="16" fill="#111">G N' R</text>
+  <path d="M40 148c-2-36 24-40 20-70" stroke="#12823a" stroke-width="7" fill="none"/>
+  <path d="M110 148c3-40-20-38-16-72" stroke="#12823a" stroke-width="7" fill="none"/>
+  <circle cx="58" cy="58" r="24" fill="#c1121f"/>
+  <circle cx="50" cy="50" r="14" fill="#ff4d6d"/>
+  <circle cx="108" cy="52" r="26" fill="#9b0c1a"/>
+  <circle cx="118" cy="44" r="14" fill="#ff3366"/>
+  <circle cx="82" cy="38" r="18" fill="#ff1744"/>
+</svg>
